@@ -1,0 +1,12 @@
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\bin\Debug\net5.0\ProductDomain.deps.json
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\bin\Debug\net5.0\ProductDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\bin\Debug\net5.0\ref\ProductDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\bin\Debug\net5.0\ProductDomain.pdb
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\obj\Debug\net5.0\ProductDomain.csproj.AssemblyReference.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\obj\Debug\net5.0\ProductDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\obj\Debug\net5.0\ProductDomain.AssemblyInfoInputs.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\obj\Debug\net5.0\ProductDomain.AssemblyInfo.cs
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\obj\Debug\net5.0\ProductDomain.csproj.CoreCompileInputs.cache
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\obj\Debug\net5.0\ProductDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\obj\Debug\net5.0\ref\ProductDomain.dll
+D:\IsmaPCBlanco\Documentos\ISMA\Semestre 2021-2\Diseño dirigido por pruebas\Proyectos\Parcial\ProductoSolution\PostParcial\PostParcial\ProductDomain\obj\Debug\net5.0\ProductDomain.pdb
